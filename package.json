@@ -1,0 +1,16 @@
+{
+  "name": "gdal-test",
+  "version": "1.0.0",
+  "description": "```bash $ npm install gdal-async --build-from-source --shared_gdal ```",
+  "main": "filter.js",
+  "scripts": {
+    "start": "./run.sh"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "command-line-args": "^5.2.1",
+    "command-line-usage": "^7.0.1",
+    "gdal-async": "^3.6.3"
+  }
+}

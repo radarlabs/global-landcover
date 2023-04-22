@@ -1,0 +1,6 @@
+*.tif
+node_modules/
+*.aux.xml
+*.geojson
+*.mbtiles
+*.html

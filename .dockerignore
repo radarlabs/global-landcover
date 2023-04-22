@@ -1,0 +1,6 @@
+.git
+*.tif
+*.geojson
+input/
+output/
+data/
